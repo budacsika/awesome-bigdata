@@ -3,6 +3,7 @@ A curated list of awesome Big Data technologies, documentations and analytics to
 
 - [Databaseses](#databases)
 - [Documentations](#documentations)
+- [Technologies](#technologies)
 - [Analytics Tools](#analytics)
 - [Blogs](#blogs)
 
