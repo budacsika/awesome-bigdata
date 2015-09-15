@@ -4,7 +4,7 @@ A curated list of awesome Big Data technologies, documentations and analytics to
 - [Databaseses](#databases)
 - [Technologies](#technologies)
 - [Documentations](#documentations)
-- [Analytics Tools](#analytics)
+- [Analytics Tools](#analytics-tools)
 - [Blogs](#blogs)
 
 ## Databases
@@ -17,7 +17,7 @@ A curated list of awesome Big Data technologies, documentations and analytics to
 
 ## Documentations
 
-## Analytics
+## Analytics Tools
 - [SQL](https://github.com/budacsik/awesome-sql)
 - [Python](https://github.com/budacsik/awesome-python)
 - [R](https://github.com/budacsik/awesome-r)
