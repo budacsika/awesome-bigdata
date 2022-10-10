@@ -24,3 +24,4 @@ A curated list of awesome Big Data technologies, documentations and analytics to
 
 ## Blogs
 - [Adatbányászat](http://adatbanyaszat.blog.hu/) - Magyar nyelvű adatbányászatról szóló blog.
+- [Explore Big Data](https://kandi.openweaver.com/explore/bigdata) - Explore a curated list of popular & new Big Data libraries, top authors, trending project kits, discussions & other resources on kandi.
